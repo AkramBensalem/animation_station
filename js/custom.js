@@ -20,7 +20,7 @@
       });
     });  
 
-    $('#project-slide').owlCarousel({
+    $('#planning-slide').owlCarousel({
       loop: true,
       center: true,
       autoplayHoverPause: false,
