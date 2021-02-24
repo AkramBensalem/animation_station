@@ -21,7 +21,7 @@
     });  
 
     $('#planning-slide').owlCarousel({
-      loop: true,
+      loop: false,
       center: true,
       autoplayHoverPause: false,
       autoplay: true,
@@ -31,7 +31,7 @@
           0:{
               items:1,
           },
-          500:{
+          800:{
               items:2,
           }
       }
